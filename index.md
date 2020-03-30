@@ -13,4 +13,4 @@
  * Webカメラ、マイク。
 
 ## 事前の準備
- * [ZOOMへのユーザ登録（初回のみ）](/zoomsanka.md)
+ * [ZOOMへのユーザ登録（初回のみ）](/zoom_sanka.md)
